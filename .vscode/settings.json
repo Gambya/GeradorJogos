@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Pichau\\.virtualenvs\\GeradorJogos-1cWb0YqP\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
